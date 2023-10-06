@@ -29,34 +29,36 @@ Download the zip file of our project extract that into a specific folder and the
 ## http://venky2852.pythonanywhere.com/
 
 ### Landing page
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/015d44d8-002c-4cde-a3ef-eea357c72519)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/d04a9769-b9b0-4aef-ac7b-6625087a09bd)
 
 ### user Login page
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/0845cca6-f647-4390-9ec0-ced95b245c33)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/d74f6691-05c6-4a87-bb00-38e1400d318a)
 
 ### Homepage
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/0e8fd186-bea6-4282-b1e9-e7990185313d)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/98bf7dc2-e048-44de-9910-efe8d4b47577)
+
 
 ### Aboutus page
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/0c6ef6db-af4e-4281-8802-84f7b5b558ce)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/92874920-2384-4f20-a3cc-dfd820a7440c)
 
 ### Policies page
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/73c60943-9d2a-48f8-ae2d-cf2e67a75809)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/6b10409d-3780-4596-a511-ac7ec8e13924)
 
 ### Contact Us page
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/b0d14de1-9b75-4256-b9b7-f59a1d999481)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/612a0386-4a03-4fb6-9c81-f84cb8681062)
 
 ### User Profile Page
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/e83eafe7-ce07-4cb7-8f9e-f14ea983147f)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/8c8af22e-e926-4841-a7c9-f423bd98601a)
 
 ### Chatbot
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/a65e106a-a7c2-45cc-a333-d314765b2afb)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/24e8546e-2194-4183-83a1-fb167891c8ad)
 
 ### Admin login
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/f6524b9b-955f-40c4-ba29-fef3f5a0a006)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/4b5f50f7-fba1-4f71-99ce-8896ae6b0ba0)
 
 ### Admin-users
-![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/89e00da2-5943-4581-925f-678f1fe8aa31)
+![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/5d377553-dfe2-48dc-aa33-beee49080bf6)
+
 
 ### Users-list
 ![image](https://github.com/vachaspathi6/PFSD-SDP/assets/108755779/3c85eccb-639f-4d3e-883b-2a61da17553d)
